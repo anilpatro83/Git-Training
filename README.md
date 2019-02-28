@@ -1,4 +1,4 @@
-master
+Git Training
 ======
 
-master
+Git Training
